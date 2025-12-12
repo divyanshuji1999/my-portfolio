@@ -1,0 +1,1 @@
+This portfolio highlights my work, skills, and experience as an AI/ML engineer and presents my projects in a clear, organized format. It serves as a central place for recruiters and collaborators to explore my background, view my work, and contact me easily.
